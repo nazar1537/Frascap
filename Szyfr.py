@@ -63,3 +63,4 @@ if __name__ == "__main__":
             print(f"Zaszyfrowany tekst (SHA-256): {zaszyfrowany_tekst}")
         else:
             print("Nieprawidłowy wybór! Spróbuj ponownie.")
+#aboba
